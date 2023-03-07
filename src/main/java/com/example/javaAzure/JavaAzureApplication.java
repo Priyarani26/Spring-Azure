@@ -11,7 +11,7 @@ public class JavaAzureApplication {
 
 	@GetMapping("/msg")
 	public String message(){
-		return" Congrats";
+		return" Congrats Priya";
 	}
 
 	public static void main(String[] args) {
